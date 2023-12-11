@@ -1,0 +1,11 @@
+ID_KSIAZKA,TYTUL,ID_AUTOR,ID_KATEGORIA,ID_WYDAWNICTWO
+1,Wiedzmin,6,6,10
+2,Ferdydurke,5,10,9
+3,Nad Niemnem,4,10,1
+4,Potop,2,9,9
+5,Dziady,3,8,4
+6,Ferdydurke,10,1,4
+7,Dziady,3,3,9
+8,Ferdydurke,1,5,3
+9,Chlopi,7,8,2
+10,Chlopi,2,5,8
